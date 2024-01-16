@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<h1 align="left">Hello there!</h1>
 
 - 🔭 I’m currently studying Computer Science.
 - 👨🏽‍💻 I'm a full stack dev, and my main skill and interest is back-end development, developing secure REST APIs.
