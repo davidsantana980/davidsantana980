@@ -27,6 +27,25 @@
   </a> 
   <br/>
   
+  <h4 align="left">Frameworks:</h4>    
+  <a> 
+      <img 
+          src="https://github.com/user-attachments/assets/91724eb3-c626-409b-9f46-9d52be2f2c18" 
+          alt="Next.js" 
+          width="80" 
+          height="20"
+      /> 
+  </a> 
+    <a> 
+      <img 
+          src="https://github.com/user-attachments/assets/7838a30d-40a1-4f4c-9032-c8946b13fd10"
+          alt="JavaFX" 
+          width="90" 
+          height="40"
+      /> 
+  </a> 
+  <br/>
+  
   <h4 align="left">Backend technologies:</h4>
   <a>
     <img 
@@ -41,7 +60,7 @@
     <img 
       align="left"
       alt="Spring"
-      width="40" 
+      width="60" 
       height="40"  
       src="https://icon2.cleanpng.com/20180713/ovr/kisspng-spring-framework-software-framework-modelview-pepper-robot-5b48c128c97e08.1041276815314946968253.jpg" 
     />
