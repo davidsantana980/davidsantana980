@@ -1,11 +1,11 @@
 <h1 align="left">Hello there!</h1>
 
-- I’m currently studying Computer Science.
-- I'm a full stack dev, and my main skill and interest is back-end development, developing secure REST APIs.
-- I’m very eager to broaden my understanding of the technologies that I have learned.
+- Studying CompSci
+- Into backend and desktop app development
+- Full-stack web dev
 
 ---
-<h3 align="left">🛠 Languages and Tools:</h4>    
+<h3 align="left">My Languages and Tools:</h4>    
 
 <div>
   <h4 align="left">Programming Languages:</h4>    
