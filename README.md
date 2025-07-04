@@ -1,8 +1,8 @@
 <h1 align="left">Hello there!</h1>
 
-- 🔭 I’m currently studying Computer Science.
-- 👨🏽‍💻 I'm a full stack dev, and my main skill and interest is back-end development, developing secure REST APIs.
-- 🌱 I’m very eager to broaden my understanding of the technologies that I have learned.
+- I’m currently studying Computer Science.
+- I'm a full stack dev, and my main skill and interest is back-end development, developing secure REST APIs.
+- I’m very eager to broaden my understanding of the technologies that I have learned.
 
 ---
 <h3 align="left">🛠 Languages and Tools:</h4>    
@@ -143,6 +143,6 @@
 
 ---
 
-- 💬 If I'm not coding, I'm reading! I love language learning, history and philosophy.
-- 📫 Reach me at <a href="www.linkedin.com/in/salvador-ochoa-0a9623257" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> and mail me at salvador8a980@gmail.com
+- If I'm not coding, I'm reading! I love language learning, history and philosophy.
+- Reach me at <a href="www.linkedin.com/in/salvador-ochoa-0a9623257" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> and mail me at salvador8a980@gmail.com
 
